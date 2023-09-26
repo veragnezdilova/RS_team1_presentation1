@@ -1,0 +1,2 @@
+# RS_team1_presentation1
+Repository with materials related to the article DEEPLY UNCERTAIN: COMPARING METHODS OF UNCERTAINTY QUANTIFICATION IN DEEP LEARNING ALGORITHMS
